@@ -17,4 +17,4 @@ Este é um projeto desenvolvido para um amigo, focado em transmitir uma mensagem
 
 
 ---
-*Desenvolvido por Sousa.io (Estudos de Front-end)*
+*Desenvolvido por sousa.io (Estudos de Front-end)*
