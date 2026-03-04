@@ -13,7 +13,7 @@ Este é um projeto desenvolvido para um amigo, focado em transmitir uma mensagem
 - **Responsividade**: O card se ajusta automaticamente a qualquer tamanho de tela.
 
 ## 📸 Preview
-<img width="1320" height="834" alt="image" src="https://github.com/user-attachments/assets/742cf9af-b265-49d6-b4d2-bff094d98f5a" />
+<img width="1320" height="834" alt="image" src="img/image.png" />
 
 
 ---
